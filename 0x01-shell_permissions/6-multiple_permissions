@@ -1,2 +1,2 @@
 #!/bin/bash
-ug+x,0+r hello
+u+x,g+x,0+r hello
